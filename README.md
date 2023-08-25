@@ -10,7 +10,7 @@ Nord Stream 2 corpus: "Corpusgesamt.rda
 
 Corpus Arms Supplies to Ukraine: "UkraineCorpus.Rda"
 
-The corpora must be copied into the working directory and then loaded via file.choose() or load(). Afterwards, the analysis steps themselves can be followed. Since the corpora have already been constructed, the tokenisation (data pre-processing) can be started directly. 
+The corpora must be copied into the working directory and then loaded via file.choose() and load(). Afterwards, the analysis steps themselves can be followed. Since the corpora have already been constructed, the tokenisation (data pre-processing) can be started directly. 
 
 Please send any queries/ comments/criticism to: tim-paul.broszio@fernuni-hagen.de
 
